@@ -8,6 +8,7 @@ This repository stores the following items:
 2. 6 Expression files (.exp)
 3. 1 Calculation file (.cal)
 4. 1 Custom model builder tool (.py)
+5. ArcGIS Pro Project Package (.ppkx) and Tasks item (.esriTasks) updated as of November 2026
 
 You can access the following items from ArcGIS Online:
 1. Sample Imagery Tiles: https://www.arcgis.com/home/item.html?id=3939fce973cf4718bb8b5cc01da20617#overview
@@ -15,6 +16,6 @@ You can access the following items from ArcGIS Online:
 3. Tree Detection Deep Learning Package: https://hub.arcgis.com/content/4af356858b1044908d9204f8b79ced99/about
 4. Sample geodatabase: https://www.arcgis.com/home/item.html?id=6f64e5fde7bf45548bb45891382505ce#overview
 
-The analysis is completed using an ArcGIS Pro Package with a guided task workflow that can be downloaded here: 
+The analysis is completed using an ArcGIS Pro Package with a guided task workflow that can also be downloaded from ArcGIS Online: https://www.arcgis.com/home/item.html?id=a3bbb13f444c450dac2ab4dbbdbc41b3#overview
 
 For more information of the 3-30-300 Guided Workflow and data dictionary, visit the StoryMap Collection: https://storymaps.arcgis.com/collections/9c4cd698465446699ddaa9dfc19842e4
